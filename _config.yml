@@ -7,7 +7,7 @@ type: "episodic" # episodic OR serial
 explicit_bool: "yes" # yes OR no (in lowercase)
 itunes_summary: "Current events, where we are headed, and using astrology to decipher" # This will match what you write in "description" above
 baseurl: "/Youni-s-World-Pod-" # /your-repository-name
-url: "https://youni-23.github.io" # your-github-user-name.github.io
+url: "https://rambling-bramble-blog.github.io" # your-github-user-name.github.io
 
 theme: null
 markdown: kramdown
